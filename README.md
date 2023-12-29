@@ -2,4 +2,4 @@
 
 Just put your username to get stats.
 
-	![aheze](./example.png)
+![alt text](https://github.com/aqrab-25/github-viewer/blob/main/example.png "Logo Title Text 1")
